@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>fullit</title>
+        <description>fullit - fullit</description>
+        <link>https://fullit.github.io</link>
+        <link>https://fullit.github.io</link>
+        <lastBuildDate>2023-06-25T20:50:07+09:00</lastBuildDate>
+        <pubDate>2023-06-25T20:50:07+09:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>Welcome to Jekyll!</title>
+                <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+                <link>https://fullit.github.io/jekyll/update/2023/06/25/welcome-to-jekyll</link>
+                <guid>https://fullit.github.io/jekyll/update/2023/06/25/welcome-to-jekyll</guid>
+                <pubDate>2023-06-25T20:37:23+09:00</pubDate>
+        </item>
+
+        <item>
+                <title>Make Your Jekyll Website Amazing</title>
+                <description>
+&lt;h2 id=&quot;how-you-can-make-an-amazing-website&quot;&gt;How you can make an Amazing Website?&lt;/h2&gt;
+
+&lt;p&gt;Jekyll can give you the possibility to make awesome websites in minutes that are &lt;strong&gt;more faster than major other sites in the world&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Use this template to generate a great jekyll website via a full of slide system make by fullpage.js and build quick your pages using the last version of Bootstrap 4.&lt;/p&gt;
+
+</description>
+                <link>https://fullit.github.io/lessons/2017/03/20/make-your-jekyll-website-amazing</link>
+                <guid>https://fullit.github.io/lessons/2017/03/20/make-your-jekyll-website-amazing</guid>
+                <pubDate>2017-03-20T00:00:00+09:00</pubDate>
+        </item>
+
+        <item>
+                <title>Syntax Highlight Example</title>
+                <description>
+&lt;p&gt;An example post about code insertion into posts.&lt;/p&gt;
+
+&lt;!--more--&gt;
+&lt;h2 id=&quot;testing-code-snippet-highlight&quot;&gt;Testing code snippet highlight&lt;/h2&gt;
+
+&lt;p&gt;The following example shows how to highlight a piece of code throughout the use of Javascript:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;    &lt;span class=&quot;cm&quot;&gt;/*jshint browser: true, strict: true, undef: true */&lt;/span&gt;
+    &lt;span class=&quot;cm&quot;&gt;/*global define: false */&lt;/span&gt;
+
+    &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+
+    &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;use strict&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+    &lt;span class=&quot;c1&quot;&gt;// class helper functions from bonzo https://github.com/ded/bonzo&lt;/span&gt;
+
+    &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;classReg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;className&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;RegExp&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;(^|&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;s+)&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;className&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;s+|$)&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+    &lt;span class=&quot;c1&quot;&gt;// classList support for class management&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;// altho to be fair, the api sucks because it won&apos;t accept multiple classes at once&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;hasClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;addClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;removeClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;if &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;classList&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;documentElement&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;nx&quot;&gt;hasClass&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;elem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;elem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;classList&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;contains&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+      &lt;span class=&quot;nx&quot;&gt;addClass&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;elem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;elem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;classList&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+      &lt;span class=&quot;nx&quot;&gt;removeClass&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;elem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;elem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;classList&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;remove&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;nx&quot;&gt;hasClass&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;elem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;classReg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;test&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;elem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;className&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+      &lt;span class=&quot;nx&quot;&gt;addClass&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;elem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;if &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;hasClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;elem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+          &lt;span class=&quot;nx&quot;&gt;elem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;className&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;elem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;className&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt; &lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+      &lt;span class=&quot;nx&quot;&gt;removeClass&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;elem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;elem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;className&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;elem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;className&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;replace&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;classReg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt; &lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+    &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;toggleClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;elem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;fn&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;hasClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;elem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;?&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;removeClass&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;addClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+      &lt;span class=&quot;nf&quot;&gt;fn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;elem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;classie&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;c1&quot;&gt;// full names&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;hasClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;hasClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;addClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;addClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;removeClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;removeClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;toggleClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;toggleClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;c1&quot;&gt;// short names&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;has&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;hasClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;addClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;remove&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;removeClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;na&quot;&gt;toggle&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;toggleClass&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+
+    &lt;span class=&quot;c1&quot;&gt;// transport&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;if &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;typeof&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;define&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;define&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;amd&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;c1&quot;&gt;// AMD&lt;/span&gt;
+      &lt;span class=&quot;nf&quot;&gt;define&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;classie&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;c1&quot;&gt;// browser global&lt;/span&gt;
+      &lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;classie&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;classie&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+    &lt;span class=&quot;p&quot;&gt;})(&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;code-highlighting-with-rounge-and-prism&quot;&gt;Code highlighting with rounge and Prism&lt;/h2&gt;
+
+&lt;p&gt;Another snippet rendered with the CSS code syntax:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-CSS&quot;&gt;    @import url(&apos;https://fonts.googleapis.com/css?family=Alfa+Slab+One|Gentium+Book+Basic&apos;);
+    /* Reset CSS
+     * --------------------------------------- */
+    body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,
+    form,fieldset,input,textarea,p,blockquote,th,td {
+        padding: 0;
+        margin: 0;
+    }
+    a{
+        text-decoration:none;
+    }
+    table {
+        border-spacing: 0;
+    }
+    fieldset,img {
+        border: 0;
+    }
+    address,caption,cite,code,dfn,em,strong,th,var {
+        font-weight: normal;
+        font-style: normal;
+    }
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&quot;using-snippet-rendered-with-the-html-code-syntax&quot;&gt;Using snippet rendered with the HTML code syntax&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-HTML&quot;&gt;
+&amp;lt;div id=&quot;fullpage&quot;&amp;gt;
+    &amp;lt;div data-anchor=&quot;0section&quot; class=&quot;section&quot; id=&quot;section0&quot;&amp;gt;
+
+        &amp;lt;h1 class=&quot;heavy&quot;&amp;gt;Ready to follow &amp;lt;br /&amp;gt;your &amp;lt;span class=&quot;pink&quot;&amp;gt;dreams?&amp;lt;/span&amp;gt;&amp;lt;/h1&amp;gt;
+        &amp;lt;br /&amp;gt;&amp;lt;h2 class=&quot;large-blur&quot;&amp;gt;
+            &amp;lt;span class=&quot;highlight-container&quot;&amp;gt;&amp;lt;span class=&quot;highlight&quot;&amp;gt;
+                Put your dreams on first and follow that!
+            &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;
+
+            &amp;lt;br /&amp;gt;
+
+                            
+
+        &amp;lt;/h2&amp;gt;
+            &amp;lt;div class=&quot;intro-scroll-down&quot;&amp;gt;
+              &amp;lt;a data-menuanchor=&quot;1section&quot; href=&quot;#1section&quot;&amp;gt;
+                &amp;lt;span class=&quot;mouse&quot;&amp;gt;
+                  &amp;lt;span class=&quot;mouse-dot&quot;&amp;gt;&amp;lt;/span&amp;gt;
+                &amp;lt;/span&amp;gt;
+              &amp;lt;/a&amp;gt;
+            &amp;lt;/div&amp;gt;
+
+
+
+    &amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Check the markdown of this example in order to fully comprehend the correct syntax.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/sentenza/sentenza.github.io/issues/1&quot;&gt;Here&lt;/a&gt; you can find more detailed information.&lt;/p&gt;
+</description>
+                <link>https://fullit.github.io/lessons/2017/02/15/syntax-highlight-example</link>
+                <guid>https://fullit.github.io/lessons/2017/02/15/syntax-highlight-example</guid>
+                <pubDate>2017-02-15T00:00:00+09:00</pubDate>
+        </item>
+
+        <item>
+                <title>Testing Locally</title>
+                <description>
+&lt;p&gt;In this tutorial I will teach you &lt;em&gt;how to test your Jekyll Bootstrap3&lt;/em&gt; site locally.&lt;/p&gt;
+
+&lt;p&gt;Jekyll is a parsing engine bundled as a ruby gem used to build static websites from
+dynamic components such as templates, partials, liquid code, markdown, etc. Jekyll is known as “a simple, blog aware, static site generator”.&lt;/p&gt;
+
+&lt;p&gt;To test your site locally, you’ll need&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ruby-lang.org/en/&quot;&gt;ruby&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/github/pages-gem&quot;&gt;github-pages&lt;/a&gt; gem&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!--more--&gt;
+
+&lt;h3 id=&quot;installing-ruby&quot;&gt;Installing ruby&lt;/h3&gt;
+
+&lt;p&gt;There are
+&lt;a href=&quot;https://www.ruby-lang.org/en/installation/&quot;&gt;lots of different ways to install ruby&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In Mac OS X, older versions of ruby will already be installed.  But I
+use the &lt;a href=&quot;http://rvm.io/&quot;&gt;Ruby Version Manager (RVM)&lt;/a&gt; to have a more
+recent version.  You could also use &lt;a href=&quot;http://brew.sh/&quot;&gt;Homebrew&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In Windows, use &lt;a href=&quot;http://rubyinstaller.org/&quot;&gt;RubyInstaller&lt;/a&gt;. (In most
+of this tutorial, I’ve assumed you’re using a Mac or some flavor of
+Unix. It’s possible that none of this was usable for Windows
+folks. Sorry!)&lt;/p&gt;
+
+&lt;h3 id=&quot;installing-the-github-pages-gem&quot;&gt;Installing the github-pages gem&lt;/h3&gt;
+
+&lt;p&gt;Run the following command:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-HTML&quot;&gt;    gem install github-pages
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This will install the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;github-pages&lt;/code&gt; gem and all dependencies
+(including &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;jekyll&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Later, to update the gem, type:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-HTML&quot;&gt;    gem update github-pages
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&quot;testing-your-site-locally&quot;&gt;Testing your site locally&lt;/h3&gt;
+
+&lt;p&gt;To construct and test your site locally, go into the directory and
+type&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-HTML&quot;&gt;    jekyll build
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This will create (or modify) a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_site/&lt;/code&gt; directory, containing
+everything from &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;assets/&lt;/code&gt;, and then the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;index.md&lt;/code&gt; and all
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pages/*.md&lt;/code&gt; files, converted to html. (So there’ll be
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_site/index.html&lt;/code&gt; and the various &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_site/pages/*.html&lt;/code&gt;.)&lt;/p&gt;
+
+&lt;p&gt;Type the following in order to “serve” the site.
+This will first run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;build&lt;/code&gt;, and so it does &lt;em&gt;not&lt;/em&gt; need to be
+preceded by &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll build&lt;/code&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-HTML&quot;&gt;    jekyll serve
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;To make jekyll automatically re-build your changes you can also add the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;--watch&lt;/code&gt; option:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-HTML&quot;&gt;    jekyll serve --watch
+    
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now open your browser and go to &lt;a href=&quot;http://localhost:4000&quot;&gt;http://localhost:4000&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Read the complete tutorial on &lt;a href=&quot;http://jekyllrb.com/docs/usage/&quot;&gt;http://jekyllrb.com/docs/usage/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;testing-images&quot;&gt;Testing images&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/big/lost_in_404_space.jpg&quot; alt=&quot;Lost in space&quot; class=&quot;image-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h4 id=&quot;code&quot;&gt;#Code&lt;/h4&gt;
+&lt;pre&gt;&lt;code class=&quot;language-HTML&quot;&gt;	
+	![Lost in space](/assets/img/big/lost_in_404_space.jpg){: .image-fluid }
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&quot;img-with-description-on-hover&quot;&gt;IMG With description on hover&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/big/universe1.jpg&quot; alt=&quot;Lost in space with description&quot; title=&quot;Description of lost in space image&quot; class=&quot;image-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h4 id=&quot;code-1&quot;&gt;#Code&lt;/h4&gt;
+&lt;pre&gt;&lt;code class=&quot;language-HTML&quot;&gt;	
+	![Lost in space with description](/assets/img/big/universe1.jpg &quot;Description of lost in space image&quot;){: .image-fluid }
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&quot;with-floating-in-markdown&quot;&gt;With floating in markdown&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;In markdown you can quikly use tables to align your images in right way, remember to style as you like the CSS of your table to have a amazing results. Use to size your pics in right way for best results.&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;/assets/img/big/universe2.jpg&quot; alt=&quot;Lost in space with description&quot; title=&quot;Description of lost in space image&quot; class=&quot;image-fluid&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+&lt;h4 id=&quot;code-2&quot;&gt;#Code&lt;/h4&gt;
+&lt;pre&gt;&lt;code class=&quot;language-HTML&quot;&gt;
+	| In markdown you can quikly use tables to align your images in right way, remember to style as you like the CSS of your table to have a amazing results. Use to size your pics in right way for best results. | ![Lost in space with description](/assets/img/big/universe2.jpg &quot;Description of lost in space image&quot;){: .image-fluid } |
+
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;img src=&quot;/assets/img/big/universe3.jpg&quot; alt=&quot;Lost in space with description&quot; title=&quot;Description of lost in space image&quot; class=&quot;image-fluid&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;I am text to the right I am text to the right I am text to the right I am text to the right&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+&lt;h4 id=&quot;code-3&quot;&gt;#Code&lt;/h4&gt;
+&lt;pre&gt;&lt;code class=&quot;language-HTML&quot;&gt;
+	| ![Lost in space with description](/assets/img/big/universe3.jpg &quot;Description of lost in space image&quot;){: .image-fluid } | I am text to the right I am text to the right I am text to the right I am text to the right |
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&quot;video-embed-sample&quot;&gt;Video embed sample&lt;/h3&gt;
+&lt;div class=&quot;video-container&quot;&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;auto&quot; src=&quot;https://www.youtube.com/embed/ikbYpAHkurs?ecver=1&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;h4 id=&quot;code-4&quot;&gt;#Code&lt;/h4&gt;
+&lt;pre&gt;&lt;code class=&quot;language-HTML&quot;&gt;	&amp;lt;div class=&quot;video-container&quot;&amp;gt;
+	&amp;lt;iframe width=&quot;100%&quot; height=&quot;auto&quot; src=&quot;https://www.youtube.com/embed/ikbYpAHkurs?ecver=1&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;
+	&amp;lt;/div&amp;gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;MIT&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>https://fullit.github.io/lessons/2017/01/17/testing-locally</link>
+                <guid>https://fullit.github.io/lessons/2017/01/17/testing-locally</guid>
+                <pubDate>2017-01-17T00:00:00+09:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>

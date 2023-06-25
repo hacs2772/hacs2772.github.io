@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/fullit.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/fullit.github.io/" rel="alternate" type="text/html" /><updated>2023-06-25T20:50:07+09:00</updated><id>http://localhost:4000/fullit.github.io/feed.xml</id><title type="html">fullit</title><author><name>fullit</name><email>lantoniotrento@gmail.com</email></author><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/fullit.github.io/jekyll/update/2023/06/25/welcome-to-jekyll" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-06-25T20:37:23+09:00</published><updated>2023-06-25T20:37:23+09:00</updated><id>http://localhost:4000/fullit.github.io/jekyll/update/2023/06/25/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/fullit.github.io/jekyll/update/2023/06/25/welcome-to-jekyll"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name>fullit</name><email>lantoniotrento@gmail.com</email></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. Jekyll requires blog post files to be named according to the following format: YEAR-MONTH-DAY-title.MARKUP Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and MARKUP is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works. Jekyll also offers powerful support for code snippets: def print_hi(name) puts "Hi, #{name}" end print_hi('Tom') #=&gt; prints 'Hi, Tom' to STDOUT. Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.]]></summary></entry><entry><title type="html">Make Your Jekyll Website Amazing</title><link href="http://localhost:4000/fullit.github.io/lessons/2017/03/20/make-your-jekyll-website-amazing" rel="alternate" type="text/html" title="Make Your Jekyll Website Amazing" /><published>2017-03-20T00:00:00+09:00</published><updated>2017-03-20T00:00:00+09:00</updated><id>http://localhost:4000/fullit.github.io/lessons/2017/03/20/make-your-jekyll-website-amazing</id><content type="html" xml:base="http://localhost:4000/fullit.github.io/lessons/2017/03/20/make-your-jekyll-website-amazing"><![CDATA[<h2 id="how-you-can-make-an-amazing-website">How you can make an Amazing Website?</h2>
+
+<p>Jekyll can give you the possibility to make awesome websites in minutes that are <strong>more faster than major other sites in the world</strong></p>
+
+<p>Use this template to generate a great jekyll website via a full of slide system make by fullpage.js and build quick your pages using the last version of Bootstrap 4.</p>]]></content><author><name>Antonio Trento</name></author><category term="lessons" /><category term="bootstrap" /><category term="web desing" /><category term="jekyll" /><summary type="html"><![CDATA[How you can make an Amazing Website? Jekyll can give you the possibility to make awesome websites in minutes that are more faster than major other sites in the world Use this template to generate a great jekyll website via a full of slide system make by fullpage.js and build quick your pages using the last version of Bootstrap 4.]]></summary></entry><entry><title type="html">Syntax Highlight Example</title><link href="http://localhost:4000/fullit.github.io/lessons/2017/02/15/syntax-highlight-example" rel="alternate" type="text/html" title="Syntax Highlight Example" /><published>2017-02-15T00:00:00+09:00</published><updated>2017-02-15T00:00:00+09:00</updated><id>http://localhost:4000/fullit.github.io/lessons/2017/02/15/syntax-highlight-example</id><content type="html" xml:base="http://localhost:4000/fullit.github.io/lessons/2017/02/15/syntax-highlight-example"><![CDATA[<p>An example post about code insertion into posts.</p>
+
+<!--more-->
+<h2 id="testing-code-snippet-highlight">Testing code snippet highlight</h2>
+
+<p>The following example shows how to highlight a piece of code throughout the use of Javascript:</p>
+
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript">    <span class="cm">/*jshint browser: true, strict: true, undef: true */</span>
+    <span class="cm">/*global define: false */</span>
+
+    <span class="p">(</span> <span class="kd">function</span><span class="p">(</span> <span class="nb">window</span> <span class="p">)</span> <span class="p">{</span>
+
+    <span class="dl">'</span><span class="s1">use strict</span><span class="dl">'</span><span class="p">;</span>
+
+    <span class="c1">// class helper functions from bonzo https://github.com/ded/bonzo</span>
+
+    <span class="kd">function</span> <span class="nf">classReg</span><span class="p">(</span> <span class="nx">className</span> <span class="p">)</span> <span class="p">{</span>
+      <span class="k">return</span> <span class="k">new</span> <span class="nc">RegExp</span><span class="p">(</span><span class="dl">"</span><span class="s2">(^|</span><span class="se">\\</span><span class="s2">s+)</span><span class="dl">"</span> <span class="o">+</span> <span class="nx">className</span> <span class="o">+</span> <span class="dl">"</span><span class="s2">(</span><span class="se">\\</span><span class="s2">s+|$)</span><span class="dl">"</span><span class="p">);</span>
+    <span class="p">}</span>
+
+    <span class="c1">// classList support for class management</span>
+    <span class="c1">// altho to be fair, the api sucks because it won't accept multiple classes at once</span>
+    <span class="kd">var</span> <span class="nx">hasClass</span><span class="p">,</span> <span class="nx">addClass</span><span class="p">,</span> <span class="nx">removeClass</span><span class="p">;</span>
+
+    <span class="k">if </span><span class="p">(</span> <span class="dl">'</span><span class="s1">classList</span><span class="dl">'</span> <span class="k">in</span> <span class="nb">document</span><span class="p">.</span><span class="nx">documentElement</span> <span class="p">)</span> <span class="p">{</span>
+      <span class="nx">hasClass</span> <span class="o">=</span> <span class="kd">function</span><span class="p">(</span> <span class="nx">elem</span><span class="p">,</span> <span class="nx">c</span> <span class="p">)</span> <span class="p">{</span>
+        <span class="k">return</span> <span class="nx">elem</span><span class="p">.</span><span class="nx">classList</span><span class="p">.</span><span class="nf">contains</span><span class="p">(</span> <span class="nx">c</span> <span class="p">);</span>
+      <span class="p">};</span>
+      <span class="nx">addClass</span> <span class="o">=</span> <span class="kd">function</span><span class="p">(</span> <span class="nx">elem</span><span class="p">,</span> <span class="nx">c</span> <span class="p">)</span> <span class="p">{</span>
+        <span class="nx">elem</span><span class="p">.</span><span class="nx">classList</span><span class="p">.</span><span class="nf">add</span><span class="p">(</span> <span class="nx">c</span> <span class="p">);</span>
+      <span class="p">};</span>
+      <span class="nx">removeClass</span> <span class="o">=</span> <span class="kd">function</span><span class="p">(</span> <span class="nx">elem</span><span class="p">,</span> <span class="nx">c</span> <span class="p">)</span> <span class="p">{</span>
+        <span class="nx">elem</span><span class="p">.</span><span class="nx">classList</span><span class="p">.</span><span class="nf">remove</span><span class="p">(</span> <span class="nx">c</span> <span class="p">);</span>
+      <span class="p">};</span>
+    <span class="p">}</span>
+    <span class="k">else</span> <span class="p">{</span>
+      <span class="nx">hasClass</span> <span class="o">=</span> <span class="kd">function</span><span class="p">(</span> <span class="nx">elem</span><span class="p">,</span> <span class="nx">c</span> <span class="p">)</span> <span class="p">{</span>
+        <span class="k">return</span> <span class="nf">classReg</span><span class="p">(</span> <span class="nx">c</span> <span class="p">).</span><span class="nf">test</span><span class="p">(</span> <span class="nx">elem</span><span class="p">.</span><span class="nx">className</span> <span class="p">);</span>
+      <span class="p">};</span>
+      <span class="nx">addClass</span> <span class="o">=</span> <span class="kd">function</span><span class="p">(</span> <span class="nx">elem</span><span class="p">,</span> <span class="nx">c</span> <span class="p">)</span> <span class="p">{</span>
+        <span class="k">if </span><span class="p">(</span> <span class="o">!</span><span class="nf">hasClass</span><span class="p">(</span> <span class="nx">elem</span><span class="p">,</span> <span class="nx">c</span> <span class="p">)</span> <span class="p">)</span> <span class="p">{</span>
+          <span class="nx">elem</span><span class="p">.</span><span class="nx">className</span> <span class="o">=</span> <span class="nx">elem</span><span class="p">.</span><span class="nx">className</span> <span class="o">+</span> <span class="dl">'</span><span class="s1"> </span><span class="dl">'</span> <span class="o">+</span> <span class="nx">c</span><span class="p">;</span>
+        <span class="p">}</span>
+      <span class="p">};</span>
+      <span class="nx">removeClass</span> <span class="o">=</span> <span class="kd">function</span><span class="p">(</span> <span class="nx">elem</span><span class="p">,</span> <span class="nx">c</span> <span class="p">)</span> <span class="p">{</span>
+        <span class="nx">elem</span><span class="p">.</span><span class="nx">className</span> <span class="o">=</span> <span class="nx">elem</span><span class="p">.</span><span class="nx">className</span><span class="p">.</span><span class="nf">replace</span><span class="p">(</span> <span class="nf">classReg</span><span class="p">(</span> <span class="nx">c</span> <span class="p">),</span> <span class="dl">'</span><span class="s1"> </span><span class="dl">'</span> <span class="p">);</span>
+      <span class="p">};</span>
+    <span class="p">}</span>
+
+    <span class="kd">function</span> <span class="nf">toggleClass</span><span class="p">(</span> <span class="nx">elem</span><span class="p">,</span> <span class="nx">c</span> <span class="p">)</span> <span class="p">{</span>
+      <span class="kd">var</span> <span class="nx">fn</span> <span class="o">=</span> <span class="nf">hasClass</span><span class="p">(</span> <span class="nx">elem</span><span class="p">,</span> <span class="nx">c</span> <span class="p">)</span> <span class="p">?</span> <span class="nx">removeClass</span> <span class="p">:</span> <span class="nx">addClass</span><span class="p">;</span>
+      <span class="nf">fn</span><span class="p">(</span> <span class="nx">elem</span><span class="p">,</span> <span class="nx">c</span> <span class="p">);</span>
+    <span class="p">}</span>
+
+    <span class="kd">var</span> <span class="nx">classie</span> <span class="o">=</span> <span class="p">{</span>
+      <span class="c1">// full names</span>
+      <span class="na">hasClass</span><span class="p">:</span> <span class="nx">hasClass</span><span class="p">,</span>
+      <span class="na">addClass</span><span class="p">:</span> <span class="nx">addClass</span><span class="p">,</span>
+      <span class="na">removeClass</span><span class="p">:</span> <span class="nx">removeClass</span><span class="p">,</span>
+      <span class="na">toggleClass</span><span class="p">:</span> <span class="nx">toggleClass</span><span class="p">,</span>
+      <span class="c1">// short names</span>
+      <span class="na">has</span><span class="p">:</span> <span class="nx">hasClass</span><span class="p">,</span>
+      <span class="na">add</span><span class="p">:</span> <span class="nx">addClass</span><span class="p">,</span>
+      <span class="na">remove</span><span class="p">:</span> <span class="nx">removeClass</span><span class="p">,</span>
+      <span class="na">toggle</span><span class="p">:</span> <span class="nx">toggleClass</span>
+    <span class="p">};</span>
+
+    <span class="c1">// transport</span>
+    <span class="k">if </span><span class="p">(</span> <span class="k">typeof</span> <span class="nx">define</span> <span class="o">===</span> <span class="dl">'</span><span class="s1">function</span><span class="dl">'</span> <span class="o">&amp;&amp;</span> <span class="nx">define</span><span class="p">.</span><span class="nx">amd</span> <span class="p">)</span> <span class="p">{</span>
+      <span class="c1">// AMD</span>
+      <span class="nf">define</span><span class="p">(</span> <span class="nx">classie</span> <span class="p">);</span>
+    <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+      <span class="c1">// browser global</span>
+      <span class="nb">window</span><span class="p">.</span><span class="nx">classie</span> <span class="o">=</span> <span class="nx">classie</span><span class="p">;</span>
+    <span class="p">}</span>
+
+    <span class="p">})(</span> <span class="nb">window</span> <span class="p">);</span></code></pre></figure>
+
+<h2 id="code-highlighting-with-rounge-and-prism">Code highlighting with rounge and Prism</h2>
+
+<p>Another snippet rendered with the CSS code syntax:</p>
+
+<pre><code class="language-CSS">    @import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Gentium+Book+Basic');
+    /* Reset CSS
+     * --------------------------------------- */
+    body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,
+    form,fieldset,input,textarea,p,blockquote,th,td {
+        padding: 0;
+        margin: 0;
+    }
+    a{
+        text-decoration:none;
+    }
+    table {
+        border-spacing: 0;
+    }
+    fieldset,img {
+        border: 0;
+    }
+    address,caption,cite,code,dfn,em,strong,th,var {
+        font-weight: normal;
+        font-style: normal;
+    }
+</code></pre>
+<h2 id="using-snippet-rendered-with-the-html-code-syntax">Using snippet rendered with the HTML code syntax</h2>
+
+<pre><code class="language-HTML">
+&lt;div id="fullpage"&gt;
+    &lt;div data-anchor="0section" class="section" id="section0"&gt;
+
+        &lt;h1 class="heavy"&gt;Ready to follow &lt;br /&gt;your &lt;span class="pink"&gt;dreams?&lt;/span&gt;&lt;/h1&gt;
+        &lt;br /&gt;&lt;h2 class="large-blur"&gt;
+            &lt;span class="highlight-container"&gt;&lt;span class="highlight"&gt;
+                Put your dreams on first and follow that!
+            &lt;/span&gt;&lt;/span&gt;
+
+            &lt;br /&gt;
+
+                            
+
+        &lt;/h2&gt;
+            &lt;div class="intro-scroll-down"&gt;
+              &lt;a data-menuanchor="1section" href="#1section"&gt;
+                &lt;span class="mouse"&gt;
+                  &lt;span class="mouse-dot"&gt;&lt;/span&gt;
+                &lt;/span&gt;
+              &lt;/a&gt;
+            &lt;/div&gt;
+
+
+
+    &lt;/div&gt;
+</code></pre>
+
+<p><strong>Check the markdown of this example in order to fully comprehend the correct syntax.</strong></p>
+
+<p><a href="https://github.com/sentenza/sentenza.github.io/issues/1">Here</a> you can find more detailed information.</p>]]></content><author><name>Antonio Trento</name></author><category term="lessons" /><category term="jekyll" /><category term="code" /><summary type="html"><![CDATA[An example post about code insertion into posts.]]></summary></entry><entry><title type="html">Testing Locally</title><link href="http://localhost:4000/fullit.github.io/lessons/2017/01/17/testing-locally" rel="alternate" type="text/html" title="Testing Locally" /><published>2017-01-17T00:00:00+09:00</published><updated>2017-01-17T00:00:00+09:00</updated><id>http://localhost:4000/fullit.github.io/lessons/2017/01/17/testing-locally</id><content type="html" xml:base="http://localhost:4000/fullit.github.io/lessons/2017/01/17/testing-locally"><![CDATA[<p>In this tutorial I will teach you <em>how to test your Jekyll Bootstrap3</em> site locally.</p>
+
+<p>Jekyll is a parsing engine bundled as a ruby gem used to build static websites from
+dynamic components such as templates, partials, liquid code, markdown, etc. Jekyll is known as “a simple, blog aware, static site generator”.</p>
+
+<p>To test your site locally, you’ll need</p>
+
+<ol>
+  <li><a href="https://www.ruby-lang.org/en/">ruby</a></li>
+  <li><a href="https://http://jekyllrb.com/">Jekyll</a></li>
+  <li><a href="https://github.com/github/pages-gem">github-pages</a> gem</li>
+</ol>
+
+<!--more-->
+
+<h3 id="installing-ruby">Installing ruby</h3>
+
+<p>There are
+<a href="https://www.ruby-lang.org/en/installation/">lots of different ways to install ruby</a>.</p>
+
+<p>In Mac OS X, older versions of ruby will already be installed.  But I
+use the <a href="http://rvm.io/">Ruby Version Manager (RVM)</a> to have a more
+recent version.  You could also use <a href="http://brew.sh/">Homebrew</a>.</p>
+
+<p>In Windows, use <a href="http://rubyinstaller.org/">RubyInstaller</a>. (In most
+of this tutorial, I’ve assumed you’re using a Mac or some flavor of
+Unix. It’s possible that none of this was usable for Windows
+folks. Sorry!)</p>
+
+<h3 id="installing-the-github-pages-gem">Installing the github-pages gem</h3>
+
+<p>Run the following command:</p>
+<pre><code class="language-HTML">    gem install github-pages
+
+</code></pre>
+<p>This will install the <code class="language-plaintext highlighter-rouge">github-pages</code> gem and all dependencies
+(including <a href="http://jekyllrb.com/">jekyll</a>).</p>
+
+<p>Later, to update the gem, type:</p>
+<pre><code class="language-HTML">    gem update github-pages
+
+</code></pre>
+<h3 id="testing-your-site-locally">Testing your site locally</h3>
+
+<p>To construct and test your site locally, go into the directory and
+type</p>
+<pre><code class="language-HTML">    jekyll build
+
+</code></pre>
+<p>This will create (or modify) a <code class="language-plaintext highlighter-rouge">_site/</code> directory, containing
+everything from <code class="language-plaintext highlighter-rouge">assets/</code>, and then the <code class="language-plaintext highlighter-rouge">index.md</code> and all
+<code class="language-plaintext highlighter-rouge">pages/*.md</code> files, converted to html. (So there’ll be
+<code class="language-plaintext highlighter-rouge">_site/index.html</code> and the various <code class="language-plaintext highlighter-rouge">_site/pages/*.html</code>.)</p>
+
+<p>Type the following in order to “serve” the site.
+This will first run <code class="language-plaintext highlighter-rouge">build</code>, and so it does <em>not</em> need to be
+preceded by <code class="language-plaintext highlighter-rouge">jekyll build</code>.</p>
+<pre><code class="language-HTML">    jekyll serve
+
+</code></pre>
+<p>To make jekyll automatically re-build your changes you can also add the <code class="language-plaintext highlighter-rouge">--watch</code> option:</p>
+<pre><code class="language-HTML">    jekyll serve --watch
+    
+</code></pre>
+<p>Now open your browser and go to <a href="http://localhost:4000">http://localhost:4000</a>.</p>
+
+<p>Read the complete tutorial on <a href="http://jekyllrb.com/docs/usage/">http://jekyllrb.com/docs/usage/</a>.</p>
+
+<h2 id="testing-images">Testing images</h2>
+
+<p><img src="/assets/img/big/lost_in_404_space.jpg" alt="Lost in space" class="image-fluid" /></p>
+
+<hr />
+<h4 id="code">#Code</h4>
+<pre><code class="language-HTML">	
+	![Lost in space](/assets/img/big/lost_in_404_space.jpg){: .image-fluid }
+
+</code></pre>
+
+<h3 id="img-with-description-on-hover">IMG With description on hover</h3>
+
+<p><img src="/assets/img/big/universe1.jpg" alt="Lost in space with description" title="Description of lost in space image" class="image-fluid" /></p>
+
+<hr />
+<h4 id="code-1">#Code</h4>
+<pre><code class="language-HTML">	
+	![Lost in space with description](/assets/img/big/universe1.jpg "Description of lost in space image"){: .image-fluid }
+
+</code></pre>
+
+<h3 id="with-floating-in-markdown">With floating in markdown</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td>In markdown you can quikly use tables to align your images in right way, remember to style as you like the CSS of your table to have a amazing results. Use to size your pics in right way for best results.</td>
+      <td><img src="/assets/img/big/universe2.jpg" alt="Lost in space with description" title="Description of lost in space image" class="image-fluid" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+<h4 id="code-2">#Code</h4>
+<pre><code class="language-HTML">
+	| In markdown you can quikly use tables to align your images in right way, remember to style as you like the CSS of your table to have a amazing results. Use to size your pics in right way for best results. | ![Lost in space with description](/assets/img/big/universe2.jpg "Description of lost in space image"){: .image-fluid } |
+
+
+</code></pre>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="/assets/img/big/universe3.jpg" alt="Lost in space with description" title="Description of lost in space image" class="image-fluid" /></td>
+      <td>I am text to the right I am text to the right I am text to the right I am text to the right</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+<h4 id="code-3">#Code</h4>
+<pre><code class="language-HTML">
+	| ![Lost in space with description](/assets/img/big/universe3.jpg "Description of lost in space image"){: .image-fluid } | I am text to the right I am text to the right I am text to the right I am text to the right |
+
+</code></pre>
+
+<h3 id="video-embed-sample">Video embed sample</h3>
+<div class="video-container">
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/ikbYpAHkurs?ecver=1" frameborder="0" allowfullscreen=""></iframe>
+</div>
+
+<hr />
+<h4 id="code-4">#Code</h4>
+<pre><code class="language-HTML">	&lt;div class="video-container"&gt;
+	&lt;iframe width="100%" height="auto" src="https://www.youtube.com/embed/ikbYpAHkurs?ecver=1" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+	&lt;/div&gt;
+
+</code></pre>
+
+<h2 id="license">License</h2>
+
+<p><a href="http://opensource.org/licenses/MIT">MIT</a></p>]]></content><author><name>Antonio Trento</name></author><category term="lessons" /><category term="intro" /><category term="beginner" /><category term="jekyll" /><category term="tutorial" /><summary type="html"><![CDATA[In this tutorial I will teach you how to test your Jekyll Bootstrap3 site locally. Jekyll is a parsing engine bundled as a ruby gem used to build static websites from dynamic components such as templates, partials, liquid code, markdown, etc. Jekyll is known as “a simple, blog aware, static site generator”. To test your site locally, you’ll need ruby Jekyll github-pages gem]]></summary></entry></feed>
