@@ -1,18 +1,18 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: 학스의 개발일지
+description: 개발자
+site_title: '학스의 개발일지'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
+github_username: hacs2772
 blog_url: https://www.nagekar.com
 email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+keybase_username: hacs2772
+twitter_username: hacs2772
+reddit_username: hacs2772
 
 # absolute or relative
 profile_picture: assets/images/pp.jpg
