@@ -18,4 +18,3 @@ A simple and modern portfolio template that is lightweight, mobile responsive an
 - Sections: Landing, About, Skills (with neat bar graphs), Projects, Contact
 - Smooth scrolling
 - Fully mobile responsive, made with latest CSS3 grid and flexbox, polyfills included
-- Lightweight and easily customizable
